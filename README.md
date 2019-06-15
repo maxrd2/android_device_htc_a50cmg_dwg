@@ -23,3 +23,5 @@ To build:
 lunch omni_a50cmg_dwg-eng
 make -j4 recoveryimage
 ```
+
+Detailed build instructions can be found on [wiki page](https://github.com/maxrd2/android_device_htc_a50cmg_dwg/wiki/TWRP-Build-Instructions)
